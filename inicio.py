@@ -6,7 +6,6 @@ from PIL import Image
 st.set_page_config(
     page_title="Remove Background Image",
     page_icon="🖼️",
-    theme={"base": "dark"}
 )
 
 # Función principal de la aplicación
