@@ -10,8 +10,7 @@ st.set_page_config(
 
 # Función principal de la aplicación
 def home():
-  
-
+ 
     # Título de la aplicación
     st.title("Eliminador de Fondos de Imagen")
 
