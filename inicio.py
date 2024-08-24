@@ -10,7 +10,7 @@ st.set_page_config(
 
 # Función principal de la aplicación
 def home():
-    agregar_estilo_css()  # Aplica los estilos CSS
+  
 
     # Título de la aplicación
     st.title("Eliminador de Fondos de Imagen")
